@@ -1,0 +1,7 @@
+{
+  "name": "Quản lý thông tin CCCD và Hộ chiếu",
+  "description": "Một ứng dụng web để quét, OCR và lưu trữ thông tin từ Căn cước công dân hoặc Hộ chiếu Việt Nam bằng API của Gemini, đồng thời tích hợp với Google Sheets và Google Drive.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
